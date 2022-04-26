@@ -1,0 +1,51 @@
+词性分类,后缀序号,后缀,后缀含义,单词
+动词后缀,1,en,（1）（加在形容词后）表示动词，“使……”（2）（加在名词后）表示形容词,deepen  shorten  lighten  wooden
+动词后缀,2,ate,（1）表示动词，“使……”（2）表示名词（3）表示形容词,ideate  fixate  graduate  accurate
+动词后缀,3,"fy (-ify,-efy)",表示动词，“使……化”,classify  verify  testify  liquefy
+动词后缀,4,ize (-ise),表示动词，“使……化”,modernize  realize  humanize  idealize
+形容词/副词后缀,5,ly,（1）（加在名词后）表示形容词（2）（加在形容词后）表示副词,friendly  timely  heavily  rightly
+形容词/副词后缀,6,ward(s),（1）表示形容词，“朝向……”（2）表示副词，“朝向……”,backward  afterward(s)  onward  westward(s)
+形容词/副词后缀,7,wise,（1）表示形容词，“像……”（2）表示副词，“像……”,otherwise  clockwise  likewise  stepwise
+形容词后缀,8,"able (-ible, -ile)",表示形容词，“能……的”,valuable  movable  readable  divisible  mobile
+形容词后缀,9,"al (-ial, -ical, -ual)",（1）（加在名词后）表示形容词（2）（加在动词后）表示名词,formal  facial  chemical  sexual  arrival  denial
+形容词后缀,10,ic,表示形容词,classic  artistic  heroic  phonetic
+形容词后缀,11,ive,表示形容词，“……性质的”,active  attractive  talkative  productive
+形容词后缀,12,ous,表示形容词,famous  joyous  spacious  murderous
+形容词后缀,13,y (-ey),（1）（加在名词后）表示形容词，“多……的”（2）（加在动词后）表示名词,sleepy  cloudy  shady  sandy  discovery  treaty
+形容词后缀,14,ed,表示形容词，“被……的”,bored  learned  limited  married
+形容词后缀,15,ful,（1）表示形容词，“充满……的”（2）表示名词，“一……的容量”,careful  helpful  spoonful  handful
+形容词后缀,16,less,表示形容词，“无……的”,careless  useless  helpless  homeless
+形容词后缀,17,ish,（1）（加在名词后）表示形容词，“有……倾向的”（贬义）（2）（加在形容词后）表示动词，表示“造成”,childish  girlish  longish  publish
+形容词后缀,18,some,表示形容词，“易于……的”,troublesome  awesome  fearsome  lonesome
+形容词后缀,19,proof,表示形容词，“防……的”,waterproof  fireproof  rainproof  shockproof
+名词后缀,20,er/-or/-eer/-eur,表示名词，“人或物”,counter  employer  actor  engineer  amateur
+名词后缀,21,ee,表示名词，“被动的人”,employee  trainee  interviewee  nominee
+名词后缀,22,ent,（1）表示名词，“人或物“（2）表示形容词,president  agent  different  dependent
+名词后缀,23,ant,（1）表示名词，“人或物“（2）表示形容词,servant  accountant  pendant  important  acceptant
+名词后缀,24,"ar (-ular, -icular)",（1）表示名词，“人或物”（2）表示形容词,grammar  scholar  spectacular  solar  linear  regular  particular
+名词后缀,25,ian,（1）表示名词，“人”（2）表示形容词或名词，“国家的（人）”,musician  librarian  Egyptian  Arabian
+名词后缀,26,ist,表示名词，“专家，从事……活动的人”,artist  scientist  tourist  humanist
+名词后缀,27,ese,（1）表示名词，“……地方的人或语言”（2）表示形容词，“国家（地方）的”,Chinese  Japanese  Cantonese  Vietnamese
+名词后缀,28,ence (-ency),表示名词,difference  agency  dependence  urgency
+名词后缀,29,ance (-ancy),表示名词,importance  acceptance  accountancy  occupancy
+名词后缀,30,age,表示名词,passage  baggage  bandage  postage
+名词后缀,31,"ion (-ation, -ition)",表示名词,action  attraction  classification  definition
+名词后缀,32,ment,表示名词,government  development  payment  basement
+名词后缀,33,ure,表示名词，“状态”,pleasure  failure  mixture  creature
+名词后缀,34,ery,（1）（加在动词后）表示名词，“场所”（2）（加在名词后）表示名词,bakery  fishery  machinery  cookery
+名词后缀,35,ary/-ory,（1）表示名词，“……的场所”；“人或物”（2）表示形容词,library  secretary  secondary  customary  factory  advisory  satisfactory  illusory
+名词后缀,36,ium (-arium),表示名词，“场所”,stadium  auditorium  gymnasium  oceanarium
+名词后缀,37,"ity (-ty, -ety)",表示名词，“性质”,ability  activity  safety  notoriety
+名词后缀,38,ism,表示名词，“主义，方法”,tourism  realism  heroism  humanism
+名词后缀,39,itude,表示名词，“程度”,attitude  gratitude  latitude  longitude
+名词后缀,40,et (-ette)/-let,表示名词，“小东西”,toilet  facet  cigarette  novelette  booklet  cloudlet
+名词后缀,41,logy,表示名词，“学科”；“……的言语”（注：因为-logy还可以拆解为词根log+后缀-y，log 表示“说话，推理”，-y表示名词，所以本书在第五编第023组词根log/logue里，将-logy作为词根+词缀处理）,biology  zoology  musicology  mixology
+名词后缀,42,nomy,表示名词，“学”,astronomy  economy  aeronomy  taxonomy
+名词后缀,43,ics,表示名词，“学”,physics  politics  aesthetics  phonetics
+名词后缀,44,hood,表示名词，“身份或资格”,childhood  neighbo(u)rhood  likelihood  manhood
+名词后缀,45,ship,表示名词，“状况”；“职业”；“技能”,friendship  relationship  membership  workmanship
+名词后缀,46,ry,表示名词,chemistry  forestry  foundry  dentistry
+名词后缀,47,dom,表示名词，“领域”；“状态”,kingdom  freedom  wisdom  boredom
+名词后缀,48,ice,表示名词,service  practice  notice  justice
+名词后缀,49,ness,表示名词,business  illness  kindness  happiness
+名词后缀,50,th,（1）表示数词，“第……”（2）表示名词,fourth  health  growth  length

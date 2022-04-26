@@ -1,0 +1,51 @@
+方向,前缀序号,前缀,前缀含义,单词
+数量方向,1,bi-/di-,二（两）；双,bicycle / biplane / bisexual / dioxide
+数量方向,2,tri-,三；三……的,triangle / tricolour / tricycle / triplane
+数量方向,3,multi-,多,multicoloured / multimedia / multinational / multiform
+数量方向,4,semi-/hemi-,半（引申出“部分地”、“每一半时间的（一段时间中两次）”等含义）,semicircle / semimonthly / hemisphere / hemicycle
+程度方向,5,"com-(co-, col-, con-, cor-)",一起；完全（有时还可以表示加强词义）,compress / complete / concentrate / contest / coexist / collect / correct
+程度方向,6,"syn-(sym-, syl-, sy-)",一起；共同,system / symphony / sympathy / synergy
+程度方向,7,micro-,小的；微小的（在术语中还可以表示“百万分之一”）,microwave / microphone / microcopy / microeconomics
+程度方向,8,macro-,大的；长的；宏大的,macrophysics / macroclimate / macrobiotics / macroeconomics
+程度方向,9,"maxi-(maj-, magn-)",大的,maximum / maximize / major / magnify
+程度方向,10,over-,越过；过度,overhead / overcome / overactive / overuse
+程度方向,11,under-,在……之下；低于……；不足,underground / underwear / underage / underdeveloped
+程度方向,12,out-,外；出；超过,outbreak / outcome / outdoors / outdo
+程度方向,13,ultra-,过度；极端,ultraviolet / ultrasound / ultramodern / ultrastructure
+程度方向,14,sur-,超过；在……上,surpass / surface / surname / surcoat
+程度方向,15,extra-,在……外；超出,extraordinary / extrasolar / extracurricular / extranuclear
+物理方向,16,pre-,前,preface / prehistory / prejudge / prefix
+物理方向,17,pro-,向前；亲，赞成,progress / project / prolong / pro-British
+物理方向,18,re-,回；再次,react / review / re-act / retry
+物理方向,19,ante-,前,antetype / antedate / anteroom / antecedent
+物理方向,20,post-,后,postdate / postdoctoral / postwar / postmodern
+物理方向,21,fore-,前,forefoot / forehead / foresee / foretell
+物理方向,22,super-,超,supermarket / superman / superstar / superhighway
+物理方向,23,"sub-(suc-, suf-, etc.)",在……下,subway / subculture / subdivide / succeed / suffix
+物理方向,24,up-,向上；使……向上,upstairs / update / upland / uphold
+物理方向,25,inter-(intel-),互相；在……之间,Internet / interview / interact / international / intellect
+物理方向,26,"trans-(tran-, tra-)",穿越；改变,transport / transship / transform / transplant
+物理方向,27,dia-(di-),通过；二者之间,diagram / diameter / diagnose / dialogue
+物理方向,28,per-,通过；始终，完全；毁坏（仅在少数单词中有贬义的“毁坏”含义）,permit / perfect / perform / pervert
+物理方向,29,se-(sed-),旁边；离开,secret / seduce / select / sedition
+物理方向,30,ex-(ef-),向外；（与表示身份或职业的名词相结合表示）前任的,export / exit / effort / ex-president
+物理方向,31,"in-(im-, il-, ir-, etc.)",进入，里；不,income / insure / import / imprison / inactive / inhuman / immovable / imbalance / illegal / irregular
+否定方向,32,bene-,好,benefit / benevolent / benediction / benefactor
+否定方向,33,mal-(male-),坏,maltreat / malfunction / malformation / malediction
+否定方向,34,mis-,坏的；错误的,mistake / misunderstand / miscall / misuse
+否定方向,35,anti-(ant-),相反；反对,Antarctic / antibody / antiwar / antisocial
+否定方向,36,contra-/counter-,相反；反对,contrary / contradict / contrast / contraposition / counterpart / counteract / counterclockwise / counterattack
+否定方向,37,ab-(abs-),不；反；离开,abuse / abnormal / abstract / absolve
+否定方向,38,"ob-(oc-, of-, op-)",反；向,object / oppose / offer / occur
+否定方向,39,en-(em-),使……；使……进入,enable / encourage / endanger / empower
+否定方向,40,be-,使；是,before / behind / beside / below / become / belong / beware / befriend
+否定方向,41,"dis-(dif-, di-)",否定；分开,disagree / discourage / dishonest / discover
+否定方向,42,non-,不；无,nonsense / nonstop / nonsuch / nonprofit
+否定方向,43,un-,不,unable / unlike / unhappy / uncover
+否定方向,44,de-,向下；离开,decline / decrease / declass / deforest
+否定方向,45,a-,（充当否定前缀）不，无；（充当介词性前缀）在……上/在……中,asocial / ahistorical / asexual / apolitical / away / aside / asleep / alive
+其他,46,"ad-(ac-, af-, as-, at-, ag-, etc.)",去，到，对,admixture / adjoin / account / affix / apposition / assign / attest / aggress
+其他,47,by-,旁边的；次要的,bypass / bystander / bylaw / byproduct
+其他,48,circum-,周围；环绕,circumstance / circumsolar / circumlunar / circumnavigate
+其他,49,self-,自我,self-service / self-control / self-confidence / self-evident
+其他,50,tele-,远，引申为“电”,telephone / telescope / telegraph / telecommunication
