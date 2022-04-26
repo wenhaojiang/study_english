@@ -7,7 +7,7 @@ from pandas import DataFrame
 
 
 def parse_lesson_title(one_line):
-    # '【第二十二 课】'
+    # '【第二十二课】'
     pattern = r'^【第(.+)课】$'
     search_objs = re.search(pattern, one_line)
     if search_objs:
