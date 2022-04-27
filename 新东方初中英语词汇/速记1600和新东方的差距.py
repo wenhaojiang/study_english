@@ -21,7 +21,7 @@ def number_C2E(ChineseNumber):
     """中文数字转整形"""
     map = dict(〇=0, 一=1, 二=2, 三=3, 四=4, 五=5, 六=6, 七=7, 八=8, 九=9, 十=10)
     size = len(ChineseNumber)
-    if size == 0: 
+    if size == 0:
         return 0
     if size < 2:
         return map[ChineseNumber]
@@ -105,11 +105,9 @@ if __name__ == '__main__':
 
     df_速记1600 = read_速记1600()
     print(df_速记1600)
-    
+
     df_新东方 = read_新东方()
     print(df_新东方)
 
     df_all = df_新东方[['序号', '单词']].merge(df_速记1600, left_on='单词', right_on='word', how='outer')
     df_all.to_csv('df_all.csv', index=0, encoding="gbk")
-
-
